@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\receppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:receppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\receppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:receppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\tbl_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:tbl_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\tbl_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:tbl_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\docpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:docpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\docpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:docpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|c:\\users\\sd\\desktop\\assessment - mohammed elsayed 1\\assessment---mohammed-elshinawy-git\\assessment-mohammed elsayed\\tbl_attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63FAB2-6B58-463B-94AF-B4407F8D5270}|assessment-Mohammed Elsayed.csproj|solutionrelative:tbl_attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tbl_attributes.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\tbl_attributes.cs",
+              "RelativeDocumentMoniker": "tbl_attributes.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\tbl_attributes.cs",
+              "RelativeToolTip": "tbl_attributes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:11:00.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecepPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\RecepPage.xaml",
+              "RelativeDocumentMoniker": "RecepPage.xaml",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\RecepPage.xaml",
+              "RelativeToolTip": "RecepPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T08:20:59.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecepPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\RecepPage.xaml.cs",
+              "RelativeDocumentMoniker": "RecepPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\RecepPage.xaml.cs",
+              "RelativeToolTip": "RecepPage.xaml.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAMwIUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:25:51.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\docPage.xaml",
+              "RelativeDocumentMoniker": "docPage.xaml",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\docPage.xaml",
+              "RelativeToolTip": "docPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T06:44:13.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\docPage.xaml.cs",
+              "RelativeDocumentMoniker": "docPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\docPage.xaml.cs",
+              "RelativeToolTip": "docPage.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowB8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:50:41.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tbl_Patient.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\tbl_Patient.cs",
+              "RelativeDocumentMoniker": "tbl_Patient.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\tbl_Patient.cs",
+              "RelativeToolTip": "tbl_Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:07:57.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tbl_User.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\tbl_User.cs",
+              "RelativeDocumentMoniker": "tbl_User.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\tbl_User.cs",
+              "RelativeToolTip": "tbl_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:06:31.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T06:41:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\assessment - mohammed elsayed 1\\assessment---Mohammed-Elshinawy-git\\assessment-Mohammed Elsayed\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:41:27.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

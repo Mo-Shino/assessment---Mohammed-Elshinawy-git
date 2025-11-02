@@ -1,0 +1,127 @@
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.exe
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.deps.json
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.runtimeconfig.json
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.pdb
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.csproj.AssemblyReference.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed_MarkupCompile.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed_MarkupCompile.lref
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.g.resources
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.AssemblyInfoInputs.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.AssemblyInfo.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.csproj.CoreCompileInputs.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessme.A849DED7.Up2Date
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\refint\assessment-Mohammed Elsayed.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.pdb
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.genruntimeconfig.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\ref\assessment-Mohammed Elsayed.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\docPage.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\docPage.baml
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\RecepPage.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\RecepPage.baml
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.exe
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.deps.json
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.runtimeconfig.json
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\assessment-Mohammed Elsayed.pdb
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.csproj.AssemblyReference.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\docPage.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\RecepPage.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed_MarkupCompile.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed_MarkupCompile.lref
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\docPage.baml
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\RecepPage.baml
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.g.resources
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.AssemblyInfoInputs.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.AssemblyInfo.cs
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.csproj.CoreCompileInputs.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.sourcelink.json
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessme.A849DED7.Up2Date
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\refint\assessment-Mohammed Elsayed.dll
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.pdb
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\assessment-Mohammed Elsayed.genruntimeconfig.cache
+C:\Users\sd\Desktop\assessment - mohammed elsayed 1\assessment---Mohammed-Elshinawy-git\assessment-Mohammed Elsayed\obj\Debug\net8.0-windows\ref\assessment-Mohammed Elsayed.dll
